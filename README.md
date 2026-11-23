@@ -308,13 +308,20 @@ plt.axis("off")
 
 #8. Pixel value displayed and a white region added to the image.
 
+<img width="247" height="355" alt="image" src="https://github.com/user-attachments/assets/d81c2cec-eeb5-482a-8824-02451030afbd" />
+
+
 
 #9. Image resized to half its original dimensions.
 
-image
+
+
+<img width="247" height="362" alt="image" src="https://github.com/user-attachments/assets/c0c62c6f-02c1-4375-b8a2-27355e846db3" />
+
 #10. Cropped region of interest displayed.
 
-image
+
+
 #11. Horizontally flipped image displayed.
 
 image
