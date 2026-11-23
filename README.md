@@ -276,7 +276,9 @@ plt.axis("off")
 #The following outputs are obtained:
 
 #1. Original image displayed using OpenCV and Matplotlib.
-![Uploading image.png…]()
+
+<img width="250" height="357" alt="image" src="https://github.com/user-attachments/assets/41be819f-6316-4743-8ce7-f1c4a2974f3e" />
+
 
 
 
