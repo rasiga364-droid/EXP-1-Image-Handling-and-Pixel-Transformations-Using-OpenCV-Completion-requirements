@@ -302,21 +302,23 @@ plt.axis("off")
 
 <img width="243" height="355" alt="image" src="https://github.com/user-attachments/assets/f4efce88-84b5-46f9-ad31-0c4264f18d73" />
 
+<img width="251" height="357" alt="image" src="https://github.com/user-attachments/assets/78f68819-df91-4608-ab9e-082edf484954" />
+
+<img width="247" height="355" alt="image" src="https://github.com/user-attachments/assets/d81c2cec-eeb5-482a-8824-02451030afbd" />
+
 #7. Image converted from HSV back to RGB.
 
-<img width="251" height="357" alt="image" src="https://github.com/user-attachments/assets/78f68819-df91-4608-ab9e-082edf484954" />
+
 
 #8. Pixel value displayed and a white region added to the image.
 
-<img width="247" height="355" alt="image" src="https://github.com/user-attachments/assets/d81c2cec-eeb5-482a-8824-02451030afbd" />
+
 
 
 
 #9. Image resized to half its original dimensions.
 
 
-
-<img width="247" height="362" alt="image" src="https://github.com/user-attachments/assets/c0c62c6f-02c1-4375-b8a2-27355e846db3" />
 
 #10. Cropped region of interest displayed.
 
