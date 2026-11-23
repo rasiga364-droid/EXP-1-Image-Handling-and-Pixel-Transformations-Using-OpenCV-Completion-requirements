@@ -1,20 +1,37 @@
 # EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV-Completion-requirements
 Name : Rasiga S
+
+
 Register Number: 212225220081
+
+
 Experiment: Image Handling and Pixel Transformations Using OpenCV
+
+
+
 # AIM
 To perform image handling and pixel transformations using Python and OpenCV, including reading and displaying images, drawing shapes, adding text, color space conversion, pixel manipulation, image resizing, cropping, flipping, and saving the modified image.
 
+
+
 # SOFTWARE REQUIRED
+
  • Python
+ 
  • OpenCV
+ 
  • Matplotlib
+ 
  • Jupyter Notebook
- • Anaconda (optional)
+ 
+ 
+• Anaconda (optional)
+
 # INSTALLATION
 Install the required libraries using the following command:
 
 ```pip install opencv-contrib-python-headless matplotlib```
+
 # ALGORITHM
 # Step 1: Read and Display an Image
 Import OpenCV and Matplotlib libraries.
@@ -300,37 +317,52 @@ plt.axis("off")
 
 #6. HSV, grayscale, and YCrCb color space conversions.
 
-<img width="243" height="355" alt="image" src="https://github.com/user-attachments/assets/f4efce88-84b5-46f9-ad31-0c4264f18d73" />
+<img width="250" height="356" alt="image" src="https://github.com/user-attachments/assets/bab1d609-4ca2-49b8-95ae-2ce8f7d1a9aa" />
+
+
 
 <img width="251" height="357" alt="image" src="https://github.com/user-attachments/assets/78f68819-df91-4608-ab9e-082edf484954" />
+
+
 
 <img width="247" height="355" alt="image" src="https://github.com/user-attachments/assets/d81c2cec-eeb5-482a-8824-02451030afbd" />
 
 #7. Image converted from HSV back to RGB.
+<img width="243" height="361" alt="image" src="https://github.com/user-attachments/assets/ceb68a16-6940-4825-a205-fdc924add48f" />
 
 
 
 #8. Pixel value displayed and a white region added to the image.
 
+<img width="251" height="360" alt="image" src="https://github.com/user-attachments/assets/e1f5aa18-2155-4160-a8f6-841cb851679e" />
 
 
 
 
 #9. Image resized to half its original dimensions.
 
+<img width="406" height="360" alt="image" src="https://github.com/user-attachments/assets/69672b2c-8b4f-47b1-96ca-4a5bcacf5702" />
 
 
 #10. Cropped region of interest displayed.
 
+<img width="317" height="352" alt="image" src="https://github.com/user-attachments/assets/2e3a147f-ae4b-49a7-994e-fb53b6f30aa4" />
 
 
 #11. Horizontally flipped image displayed.
 
-image
+
+<img width="237" height="356" alt="image" src="https://github.com/user-attachments/assets/0f4be458-e36c-4a47-9e5b-f5fcfe2e8fe8" />
+
+
 #12. Vertically flipped image displayed.
 
-image
-RESULT
+
+<img width="240" height="350" alt="image" src="https://github.com/user-attachments/assets/c5a6ac5c-615b-4588-871f-85d7f2a2724f" />
+
+
+
+# RESULT
 Thus, image handling and pixel transformations were performed using Python, OpenCV, and Matplotlib. The experiment demonstrated image reading, shape drawing, text insertion, color space conversion, pixel manipulation, image resizing, cropping, flipping, and saving.
 
 
