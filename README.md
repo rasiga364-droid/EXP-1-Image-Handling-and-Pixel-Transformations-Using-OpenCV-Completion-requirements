@@ -284,25 +284,30 @@ plt.axis("off")
 
 #2. Image with a line drawn from the top-left to the bottom-right.
 
-image
+<img width="255" height="355" alt="image" src="https://github.com/user-attachments/assets/81eed8ab-16ae-47fa-a79c-f21124b16aaa" />
+
 #3. Image with a circle at the center.
 
-image
+<img width="250" height="351" alt="image" src="https://github.com/user-attachments/assets/e78efe46-cd3e-469b-9591-800911d81b33" />
+
 #4. Image with a rectangle around its boundary.
 
-image
+<img width="252" height="357" alt="image" src="https://github.com/user-attachments/assets/9d033da5-34ff-415c-9a10-341ab7c7bbc8" />
+
 #5. Image with the text "OpenCV Drawing".
 
-image
+<img width="247" height="350" alt="image" src="https://github.com/user-attachments/assets/934e9661-7766-41d7-8972-30bdcaf3a94a" />
+
 #6. HSV, grayscale, and YCrCb color space conversions.
 
-image image image
-#7. Image converted from HSV back to RGB.
+<img width="243" height="355" alt="image" src="https://github.com/user-attachments/assets/f4efce88-84b5-46f9-ad31-0c4264f18d73" />
 
-image
+#7. Image converted from HSV back to RGB.
+<img width="251" height="357" alt="image" src="https://github.com/user-attachments/assets/78f68819-df91-4608-ab9e-082edf484954" />
+
 #8. Pixel value displayed and a white region added to the image.
 
-image
+
 #9. Image resized to half its original dimensions.
 
 image
